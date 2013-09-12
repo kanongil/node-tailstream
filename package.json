@@ -17,7 +17,7 @@
     "watch"
   ],
   "author": "Gil Pedersen <gpdev@gpost.dk>",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "dependencies": {
     "oncemore": "~0.1.2"
   },
@@ -25,5 +25,15 @@
     "mocha": "~1.12.0",
     "should": "~1.2.2",
     "temporary": "0.0.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kanongil/node-tailstream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanongil/node-tailstream/issues"
   }
 }
